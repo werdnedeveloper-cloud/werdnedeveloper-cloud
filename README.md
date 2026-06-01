@@ -66,7 +66,7 @@ I also worked as a volunteer back-end developer for the city hall of Ipanguaçu.
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats-eight-theta.vercel.app/api?username=werdnedeveloper-cloud
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=werdnedeveloper-cloud&show_icons=true&theme=dark)
 
 ---
 
